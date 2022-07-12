@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "partitionComparison"]
-	path = partitionComparison
-	url = https://github.com/kit-iism-em/partitioncomparison
-	shallow = true
-	subdir = partitionComparison
-	registered = true
